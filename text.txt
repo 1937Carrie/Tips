@@ -5,3 +5,5 @@
 Мониторинг системы:
   CLI - sudo apt install screenfetch
   widget - sudo apt install conky-all
+
+Почистить handshake https://hashcat.net/cap2hashcat/
