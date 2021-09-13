@@ -2,4 +2,6 @@
 На ошибку cpyrit/_cpyrit_cpu.c:35:10: fatal error: выполнить sudo apt-get install libssl-dev
 На ошибку cpyrit/_cpyrit_cpu.c:40:10: fatal error: выполнить sudo apt-get install libpcap0.8-dev
 
-Температура процессора sudo apt install screenfetch
+Мониторинг системы:
+  CLI - sudo apt install screenfetch
+  widget - sudo apt install conky-all
