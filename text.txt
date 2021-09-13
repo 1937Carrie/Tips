@@ -7,3 +7,6 @@
   widget - sudo apt install conky-all
 
 Почистить handshake https://hashcat.net/cap2hashcat/
+
+Включить Wi-Fi и провод после wifite2:  sudo ifconfig wlan0mon down && sudo airmon-ng stop wlan0mon
+                                        sudo systemctl restart NetworkManager
